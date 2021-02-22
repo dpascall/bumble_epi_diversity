@@ -1,0 +1,25 @@
+Virus,Pool,Watterson's theta approximation,Honeybee,Lower,Upper
+River Luineag virus,Bombus sp.,0.029,Undetected,0.029,0.03
+Loch Morlich virus,Bombus sp.,0.026,Undetected,0.025,0.027
+Mayfield virus 1,Bombus sp.,0.01,Undetected,0.009,0.01
+Mayfield virus 2,Bombus sp.,0.035,Undetected,0.034,0.036
+Acute bee paralysis virus,Bombus sp.,0,Detected,0,0
+Slow bee paralysis virus,Bombus sp.,0.008,Detected,0.008,0.008
+River Luineag virus,Bombus terrestris,NA,Undetected,NA,NA
+Loch Morlich virus,Bombus terrestris,NA,Undetected,NA,NA
+Mayfield virus 1,Bombus terrestris,0.015,Undetected,0.014,0.015
+Mayfield virus 2,Bombus terrestris,0.014,Undetected,0.012,0.016
+Acute bee paralysis virus,Bombus terrestris,NA,Detected,NA,NA
+Slow bee paralysis virus,Bombus terrestris,0.002,Detected,0.002,0.002
+River Luineag virus,Bombus lucorum,NA,Undetected,NA,NA
+Loch Morlich virus,Bombus lucorum,NA,Undetected,NA,NA
+Mayfield virus 1,Bombus lucorum,0.024,Undetected,0.023,0.025
+Mayfield virus 2,Bombus lucorum,NA,Undetected,NA,NA
+Acute bee paralysis virus,Bombus lucorum,0,Detected,0,0
+Slow bee paralysis virus,Bombus lucorum,0.003,Detected,0.003,0.003
+River Luineag virus,Bombus pascuorum,NA,Undetected,NA,NA
+Loch Morlich virus,Bombus pascuorum,NA,Undetected,NA,NA
+Mayfield virus 1,Bombus pascuorum,NA,Undetected,NA,NA
+Mayfield virus 2,Bombus pascuorum,0.029,Undetected,0.028,0.03
+Acute bee paralysis virus,Bombus pascuorum,0,Detected,0,0
+Slow bee paralysis virus,Bombus pascuorum,0.006,Detected,0.006,0.006
